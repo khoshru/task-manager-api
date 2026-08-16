@@ -38,3 +38,7 @@ Then open http://127.0.0.1:8000/docs
 | PUT | /tasks/{task_id} | Update task title |
 | PATCH | /tasks/{task_id}/done | Toggle done status |
 | DELETE | /tasks/{task_id} | Delete a task |
+
+https://task-manager-api-xp18.onrender.com/docs
+
+
